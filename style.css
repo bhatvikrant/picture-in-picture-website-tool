@@ -65,3 +65,7 @@ button:active {
 li {
 	padding: 5px;
 }
+
+.reload-icon {
+	width: 40px;
+}
